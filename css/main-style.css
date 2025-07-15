@@ -85,3 +85,11 @@ button {
     line-height: 20px;
     text-align: center;
 }
+
+.badge {
+    background-color: #49a9ec;
+    color: white;
+    padding: 5px 10px;
+    border-radius: 40px;
+    font-size: 12px;
+}
