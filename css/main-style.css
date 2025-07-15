@@ -43,6 +43,7 @@ h1 {
 /* Card */
 .card {
     background-color: white;
+    border-radius: 10px;
 }
 
 /* Card top */
@@ -76,6 +77,10 @@ button {
 
 .task-body {
     margin: 20px 0px;
+}
+
+.task-title {
+    margin-top: 40px;
 }
 
 /* Checkbox */
