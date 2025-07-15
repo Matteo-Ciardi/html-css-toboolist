@@ -42,7 +42,26 @@ h1 {
     background-color: white;
 }
 
+/* Card top */
 .card-top {
     padding: 10px 40px;
     border-bottom: 1px solid transparent;
+}
+
+button {
+    padding: 5px 10px;
+    font-size: 17px;
+    border: 1px solid transparent;
+    border-radius: 5px;
+}
+
+.btn-task {
+    color: white;
+    background-color: #46abf0;
+}
+
+.btn-section {
+    color: #dbdbdd;
+    border-color: #dbdbdd;
+    background-color: white;
 }
