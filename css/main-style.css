@@ -29,3 +29,9 @@ h1 {
     font-weight: 800;
     font-size: 40px;
 }
+
+/* Main */
+.container {
+    margin: 0 auto;
+    width: 50%;
+}
