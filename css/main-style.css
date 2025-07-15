@@ -78,6 +78,8 @@ button {
     margin: 20px 0px;
 }
 
+/* Checkbox */
+
 .checkbox {
     border-radius: 50%;
     display: inline-block;
@@ -98,10 +100,28 @@ button {
     border: 1px solid red;
 }
 
+/* Badge */
+
 .badge {
-    background-color: #49a9ec;
+    background-color: #868686;
     color: white;
     padding: 5px 10px;
     border-radius: 40px;
     font-size: 12px;
+}
+
+.bg-blue {
+    background-color: #46a7eb;
+}
+
+.bg-purple {
+    background-color: #9773df;
+}
+
+.bg-green {
+    background-color: #5dc5a9;
+}
+
+.bg-orange {
+    background-color: #f2a030;
 }
