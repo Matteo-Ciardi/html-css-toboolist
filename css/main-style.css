@@ -7,7 +7,7 @@
 /* Generics */
 body {
     font-family: Arial, Helvetica, sans-serif;
-    background-color: aquamarine;
+    background-color: #f6f8fa;
 }
 
 ul {
@@ -49,7 +49,7 @@ h1 {
 /* Card top */
 .card-top {
     padding: 10px 40px;
-    border-bottom: 1px solid aquamarine;
+    border-bottom: 1px solid #f6f8fa;
 }
 
 button {
@@ -57,6 +57,7 @@ button {
     font-size: 17px;
     border: 1px solid transparent;
     border-radius: 5px;
+    cursor: pointer;
 }
 
 .btn-task {
