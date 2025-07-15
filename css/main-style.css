@@ -110,6 +110,10 @@ button {
     font-size: 12px;
 }
 
+.bg-none {
+    visibility: hidden;
+}
+
 .bg-blue {
     background-color: #46a7eb;
 }
@@ -124,4 +128,12 @@ button {
 
 .bg-orange {
     background-color: #f2a030;
+}
+
+.bg-pink {
+    background-color: #d863a0;
+}
+
+.bg-lemon {
+    background-color: #b0cb20;
 }
