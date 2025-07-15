@@ -70,8 +70,12 @@ button {
 }
 
 /* Card bottom */
-.task-time {
-    padding: 40px 35px;
+.card-bottom {
+    padding: 40px;
+}
+
+.task-body {
+    margin: 10px 0px;
 }
 
 .checkbox {
